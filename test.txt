@@ -1,2 +1,2 @@
 git add ./text.text
-untracked --> tracked
+untracked --> tracked(stayed상태)
