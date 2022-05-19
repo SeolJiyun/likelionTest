@@ -1,3 +1,6 @@
 git add ./text.text
 untracked --> tracked(stayed상태)
 추가추가
+
+
+멋사 브랜치 실습
